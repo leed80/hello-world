@@ -7,9 +7,13 @@ Skills:
 - CSS
 - Javascript
 - jQuery
+- PHP
+- Symfony
+- Twig
 - Python
 - Django
 - Django rest framework
 - MySQL
 - PostgreSQL
 - Git
+- SVN
